@@ -28,6 +28,11 @@ pip install tfx-moe
 
 ---
 
+## 🧠 TFX Component Illustration
+![TFX Component Illustration](tfx_comp_explained.png)
+
+---
+
 ## 📚 API Reference
 
 ### `MultiOutputEvaluator` Component

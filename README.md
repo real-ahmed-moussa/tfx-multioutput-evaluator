@@ -4,7 +4,6 @@ A lightweight and flexible **TFX** component for evaluating **multi-output** Ten
 ![PyPI version](https://img.shields.io/pypi/v/tfx-moe.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/tfx-moe)](https://pypi.org/project/tfx-moe/)
-[![Downloads](https://static.pepy.tech/badge/tfx-moe)](https://pepy.tech/project/tfx-moe)
 
 ---
 

@@ -1,4 +1,4 @@
-# MultiOutputEvaluator (TFX Component)
+# TFX Multi-output Evaluator (TFX Component)
 A lightweight and flexible **TFX** component for evaluating **multi-output** TensorFlow models. It computes **per-output** and **global** metrics and writes a **TFMA-compatible** JSON artifact for downstream analysis and reporting.
 
 ![PyPI version](https://img.shields.io/pypi/v/tfx-moe.svg)

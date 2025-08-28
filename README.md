@@ -73,7 +73,7 @@ multi_output_evaluator = MultiOutputEvaluator(
     examples=transform.outputs["transformed_examples"],
     transform_graph=transform.outputs['transform_graph'],
     
-    output_names=OUTPUT_KEYS,                     # e.g., ["y_loc1", "y_loc2", ...]
+    output_names=OUTPUT_KEYS,                     # e.g., ["y_out1", "y_out2", ...]
     metrics=['mse', 'mae'],
 
     input_fn_path="my_pkg.mdata:input_fn",        # Your dataset builder function
@@ -133,8 +133,8 @@ print(f'Global MAE {global_mae}')
 global_mse_all_outputs = df["MSE"].mean()
 global_mae_all_outputs = df["MAE"].mean()
 
-print(f'Global MSE per All Locations {global_mse_all_outputs}')
-print(f'Global MAE per All Locations {global_mae_all_outputs}')
+print(f'Global MSE per All Outputs {global_mse_all_outputs}')
+print(f'Global MAE per All Outputs {global_mae_all_outputs}')
 ```
 ---
 

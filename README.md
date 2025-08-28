@@ -29,7 +29,7 @@ pip install tfx-moe
 ---
 
 ## 🧠 TFX Component Illustration
-![TFX Component Illustration](tfx_comp_explained.png)
+![TFX Component Illustration](imgs/tfx_comp_explained.png)
 
 ---
 

@@ -1,7 +1,7 @@
 # TFX Multi-output Evaluator (TFX Component)
 
 <p align="center">
-  <img src="imgs/TFX Component - Multi-output Evaluator (Python Package).png" alt="tfx-moe" width="300">
+  <img src="imgs/TFX Component - Multi-output Evaluator (Python Package).png" alt="tfx-moe" width="500">
 </p>
 
 A lightweight and flexible **TFX** component for evaluating **multi-output** TensorFlow models. It computes **per-output** and **global** metrics and writes a **TFMA-compatible** JSON artifact for downstream analysis and reporting.

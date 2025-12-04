@@ -189,12 +189,6 @@ def input_fn(file_pattern: str, tf_transform_output, **kwargs) -> tf.data.Datase
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-© 2025 **Dr. Ahmed Moussa**
-
----
-
 ## 🤝 Contributing
 Pull requests are welcome.  
 For major changes, please open an issue first to discuss what you would like to change.
@@ -213,3 +207,10 @@ For feedback, bugs, or collaboration ideas:
 
 
 If you find this project useful, consider giving it a ⭐️ on [GitHub](https://github.com/real-ahmed-moussa//tfx-multioutput-evaluator)!
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+© 2025 **Dr. Ahmed Moussa**
+
